@@ -6,7 +6,7 @@ namespace Progama
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Rain!");
+            Console.WriteLine("Hello Rain2!");
         }
     }
 }
