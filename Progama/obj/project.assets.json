@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Adrian Estevez\\.nuget\\packages\\": {}
+    "C:\\Users\\laptop\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adrian Estevez\\Desktop\\Prueba GIT\\Progama\\Progama\\Progama.csproj",
+      "projectUniqueName": "C:\\Users\\laptop\\OneDrive\\Escritorio\\PRUEBA\\Programacion-IIII-GIT-PRUEBA\\Progama\\Progama.csproj",
       "projectName": "Progama",
-      "projectPath": "C:\\Users\\Adrian Estevez\\Desktop\\Prueba GIT\\Progama\\Progama\\Progama.csproj",
-      "packagesPath": "C:\\Users\\Adrian Estevez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adrian Estevez\\Desktop\\Prueba GIT\\Progama\\Progama\\obj\\",
+      "projectPath": "C:\\Users\\laptop\\OneDrive\\Escritorio\\PRUEBA\\Programacion-IIII-GIT-PRUEBA\\Progama\\Progama.csproj",
+      "packagesPath": "C:\\Users\\laptop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\laptop\\OneDrive\\Escritorio\\PRUEBA\\Programacion-IIII-GIT-PRUEBA\\Progama\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Adrian Estevez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
